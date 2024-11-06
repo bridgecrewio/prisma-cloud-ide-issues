@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c25a5109-7d95-470b-ab22-774a9d153df6)
+
 # Prisma Cloud IDE Issues
 This repository is the place to post issues you face while using the various IDE plugins offered by Prisma Cloud
 
