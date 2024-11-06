@@ -25,3 +25,6 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**Logs**
+Add the IDE plugin logs. To see how to get the logs please consult look at https://github.com/bridgecrewio/prisma-cloud-ide-issues/blob/main/README.md
