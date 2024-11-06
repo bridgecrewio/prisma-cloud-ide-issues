@@ -9,10 +9,10 @@ assignees: ChananM
 
 **Platform details**
 Please complete the following information:
- - <b>OS</b>: [e.g. Windows / Mac]
- - <b>IDE</b>: [e.g. JetBrains, VS Code]
- - <b>Plugin version</b>: [e.g. 1.0.23]
- - <b>Are you using API keys</b>: [yes/no]
+ - OS: [e.g. Windows / Mac]
+ - IDE: [e.g. JetBrains, VS Code]
+ - Plugin version: [e.g. 1.0.23]
+ - Are you using API keys: [yes/no]
 
 **Describe the bug**
 A clear and concise description of what the bug is.
